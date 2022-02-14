@@ -1,4 +1,5 @@
 # My Skills
+![linkdin 1](https://user-images.githubusercontent.com/49276851/153923173-c1a03e62-eb2b-4d13-b06c-680ccc35d7c3.jpg)
 Projeto Criado durante a trilha do Ignite.
 Como o nome ja diz Minhas Habilidades
 
